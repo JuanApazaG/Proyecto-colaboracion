@@ -5,5 +5,5 @@
 2. Aprender a colaborar 
 3. Aprender a trabajar como desarrollador web
 
-### Notas nada es facil... todo requiere esfuerzo 
+### Notas nada es facil...todo requiere esfuerzo 
 
